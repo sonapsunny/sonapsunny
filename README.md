@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonapsunny&show_icons=true&locale=en&layout=compact" alt="sonapsunny" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonapsunny&show_icons=true&locale=en" alt="sonapsunny" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=[sonapsunny](https://www.linkedin.com/in/sonaps2321/)&show_icons=true&locale=en" alt="sonapsunny" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonapsunny&" alt="sonapsunny" /></p>
 
