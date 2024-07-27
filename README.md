@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, Kotlin, MERN, TypeScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, SQL, Git, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, SQL, Git, Bootstrap, Figma**
 
 - 📫 How to reach me **sonapsunny2001@gmail.com**
 
